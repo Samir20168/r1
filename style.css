@@ -1,0 +1,9 @@
+body {
+    font-family: sans-serif;
+}
+header {background-color :aqua; padding: 10px;}
+h1 {color:rgb(0, 102, 255); text-align: center;}
+footer {background-color:rgb(226, 43, 202);padding: 4px;} 
+footer p{background-color: white; }
+nav{border: 3px solid aqua;padding: 6px;}
+nav a{text-decoration: none;padding: 40px;}
